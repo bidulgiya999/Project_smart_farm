@@ -1,6 +1,8 @@
 # Project_smart_farm
 
-we've been done smart farm project based on CNN and YOLOv8n and used arduino for the mediapipe for the motion control
+We completed a smart farm project based on CNN and YOLOv8n, using Arduino with MediaPipe for motion control."
+
+Let me know if you need any further modifications!
 
 ![스마트팜_메인화면](https://github.com/user-attachments/assets/8671c9a6-6de7-40e8-af69-266320dcef9a)
 
